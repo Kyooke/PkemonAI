@@ -1,0 +1,381 @@
+[
+  {
+    "opponent": [
+      "カイリュー",
+      "テツノツツミ",
+      "モロバレル"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "カイリュー",
+        "hp_after": 83.0,
+        "opp_hp_after": 78.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "カイリュー",
+        "hp_after": 72.0,
+        "opp_hp_after": 57.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "カイリュー",
+        "hp_after": 48.0,
+        "opp_hp_after": 35.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "カイリュー",
+        "hp_after": 24.0,
+        "opp_hp_after": 11.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "カイリュー",
+        "hp_after": 5.0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "opponent": [
+      "カイリュー",
+      "テツノツツミ",
+      "モロバレル"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 75.0,
+        "opp_hp_after": 85.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 58.0,
+        "opp_hp_after": 70.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 45.0,
+        "opp_hp_after": 51.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 26.0,
+        "opp_hp_after": 26.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 12.0,
+        "opp_hp_after": 8.0
+      },
+      {
+        "turn": 6,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "opponent": [
+      "カイリュー",
+      "テツノツツミ",
+      "モロバレル"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 80.0,
+        "opp_hp_after": 74.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 58.0,
+        "opp_hp_after": 46.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 45.0,
+        "opp_hp_after": 25.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 26.0,
+        "opp_hp_after": 3.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 1.0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "time": "2026-02-23T02:01:58",
+    "opponent": [
+      "オーガポン",
+      "ミミッキュ",
+      "ヒードラン"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 90.0,
+        "opp_hp_after": 77.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 67.0,
+        "opp_hp_after": 53.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 44.0,
+        "opp_hp_after": 32.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 22.0,
+        "opp_hp_after": 5.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 11.0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "time": "2026-02-23T02:19:33",
+    "opponent": [
+      "オーガポン",
+      "ミミッキュ",
+      "ヒードラン"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 79.0,
+        "opp_hp_after": 76.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 55.0,
+        "opp_hp_after": 55.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 43.0,
+        "opp_hp_after": 39.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 29.0,
+        "opp_hp_after": 16.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 18.0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "time": "2026-02-23T02:19:40",
+    "opponent": [
+      "オーガポン",
+      "ミミッキュ",
+      "ヒードラン"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 77.0,
+        "opp_hp_after": 76.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 55.0,
+        "opp_hp_after": 53.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 30.0,
+        "opp_hp_after": 38.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 20.0,
+        "opp_hp_after": 22.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 7.0,
+        "opp_hp_after": 7.0
+      },
+      {
+        "turn": 6,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "time": "2026-02-23T02:19:44",
+    "opponent": [
+      "オーガポン",
+      "ミミッキュ",
+      "ヒードラン"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 86.0,
+        "opp_hp_after": 75.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 65.0,
+        "opp_hp_after": 47.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 47.0,
+        "opp_hp_after": 31.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 37.0,
+        "opp_hp_after": 10.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 19.0,
+        "opp_hp_after": 0
+      }
+    ]
+  },
+  {
+    "time": "2026-02-23T03:02:43",
+    "opponent": [
+      "オーガポン",
+      "ミミッキュ",
+      "ヒードラン"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 76.0,
+        "opp_hp_after": 79.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 61.0,
+        "opp_hp_after": 60.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 50.0,
+        "opp_hp_after": 37.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 26.0,
+        "opp_hp_after": 13.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 3.0,
+        "opp_hp_after": 0
+      }
+    ]
+  }
+]

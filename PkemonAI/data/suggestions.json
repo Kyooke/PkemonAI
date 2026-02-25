@@ -1,0 +1,17 @@
+[
+  {
+    "turn": 1,
+    "time": "2026-02-24T22:03:40.023143",
+    "my_active": "サーフゴー",
+    "opp_active": "unknown",
+    "my_hp": 2.0,
+    "opp_hp": 2.0,
+    "best_move": null,
+    "move_scores": [],
+    "switch": [
+      "sacrifice",
+      null,
+      "HP低く切った方が良い"
+    ]
+  }
+]

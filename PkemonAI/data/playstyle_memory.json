@@ -1,0 +1,1781 @@
+{
+  "single:switch": {
+    "success": 0,
+    "fail": 1
+  },
+  "single:sacrifice": {
+    "success": 0,
+    "fail": 1
+  },
+  "iiに          |": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー": {
+    "used": 51,
+    "success": 3563.472,
+    "avg_success": 69.87,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "1            1ヨコ 4は)そう           、": {
+    "used": 4,
+    "success": 280.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "・ 2": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "_ 2": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーュ    * 本": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "」 ー  トー たたかう": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "Np 王后": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "_ 4": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ト": {
+    "used": 4,
+    "success": 280.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "mm ーー                    _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "mh  で": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ee  ll": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "レコ  ー": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "トコ": {
+    "used": 42,
+    "success": 2935.254,
+    "avg_success": 69.89,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ー": {
+    "used": 4,
+    "success": 282.7,
+    "avg_success": 70.67,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "。      に": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ICP": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー hp": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー  て": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "」 |": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "間   。": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー      っ の": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "| コ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー ーー こ": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーーコ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "レー              ーー        ご          _": {
+    "used": 1,
+    "success": 64.39999999999999,
+    "avg_success": 64.4,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "スイ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー ュー": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー  0": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ー こ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "と": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー  ーー こ 還": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー       ーー       ーー         還": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー ー hn": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ュ       ー                                    _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "し コ  T": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  ". 胃: ーー      。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "コ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "SA": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー    ー                 _-": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ココ  T": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "の  ll": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "| ココ": {
+    "used": 3,
+    "success": 210.29700000000003,
+    "avg_success": 70.1,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "トー  -": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ピコ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ー    ー                                    _-": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "| っ": {
+    "used": 3,
+    "success": 210.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー ー こ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー ーー 、": {
+    "used": 2,
+    "success": 140.6,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "と _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "トー     「                  Tー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ュ      ii": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ヤー、 ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ーー      ーーデ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ヤ…ヤsd": {
+    "used": 1,
+    "success": 68.6,
+    "avg_success": 68.6,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ui": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ンツ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "さき ト": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "“ 人舞": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "ls、": {
+    "used": 1,
+    "success": 68.6,
+    "avg_success": 68.6,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "すき 上": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "しし": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "間": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "|  フン王": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.206214",
+    "source": "observe"
+  },
+  "hh、": {
+    "used": 1,
+    "success": 72.1,
+    "avg_success": 72.1,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "6  ーー ユ          mm": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "Eu": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "の": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "通還": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー ーー 0": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "|": {
+    "used": 3,
+    "success": 210.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー ー で": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー 。 こ  _": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー     ー     こ": {
+    "used": 1,
+    "success": 64.39999999999999,
+    "avg_success": 64.4,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー ー    ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "' トコ": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "im": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "TA _ ci主": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーコ    「": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "se": {
+    "used": 1,
+    "success": 67.89999999999999,
+    "avg_success": 67.9,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーー": {
+    "used": 2,
+    "success": 140.6,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ii 。    ュ    遇間": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "| 1": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー  ー こ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "1": {
+    "used": 4,
+    "success": 281.2,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー     骨": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "1 w-               \"へ ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーつ   「            て": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー      ーー ~こ       _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "【 っ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トコ     「": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー  _-": {
+    "used": 1,
+    "success": 86.8,
+    "avg_success": 86.8,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "レー  T": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "つ  hh": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "しーーコ  T": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "hs所": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ee": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "し  il": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "し コ  il": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーー ュー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ト 2": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トー  て": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トー  ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トー  0": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トコ  」": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー に ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "_。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "に -": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー   し": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー    ー   ー": {
+    "used": 1,
+    "success": 66.5,
+    "avg_success": 66.5,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "9  =ーー      ーー": {
+    "used": 1,
+    "success": 67.79999999999998,
+    "avg_success": 67.8,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "wl": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "]": {
+    "used": 4,
+    "success": 280.6,
+    "avg_success": 70.15,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "3   「": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トー   「            T": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "し  T": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー ーバ、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーニー ーー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー   一  ここ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ん4  |      _": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "【": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "mp  ii": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "6       ヽ- 寺  へ": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "に": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "<": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "M/": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "人": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "、": {
+    "used": 1,
+    "success": 64.39999999999999,
+    "avg_success": 64.4,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "還還還間電 1 8": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "が      電": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "上": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "mA": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "関      ーー ~": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー       ー      ーー       _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "| 2": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "mm": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "トス": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "」 | 1": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "し": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー こ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。 ・  ーー           。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "還明あま。 --  _ _": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "_": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー  ーー一": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "和 Se": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー      ーー       _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ラ。      ー     て                -": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "』     rs 。 提還還UM還": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "り": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "re": {
+    "used": 25,
+    "success": 1753.6000000000001,
+    "avg_success": 70.14,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "上Roエキューー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "= 、壮": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "・ _": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "sb、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "生。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | 』  5 ga": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "選/ 、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー   ュー": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "N Se": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "3 ・ や ー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "上 、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "、ー末      」": {
+    "used": 1,
+    "success": 67.89999999999999,
+    "avg_success": 67.9,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "T     た   ]": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "on者": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "』   「": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "信": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー                           et": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "/": {
+    "used": 2,
+    "success": 140.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "と  」                -": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "と                   -": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "\\M": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "昌              ーーーー-                       ーー": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。 感/、": {
+    "used": 1,
+    "success": 67.79999999999998,
+    "avg_success": 67.8,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "の”": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "生b、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "k、 u二": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | 呈 ・ aa     、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "RE": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "間、、": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "と                        -": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "半": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "の、、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー 3": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "往。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "と <半": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "/。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "昌音ee": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "っ       、     コン": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | El-    、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | 了・ ea      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | . ea      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー  Es  」": {
+    "used": 1,
+    "success": 71.5,
+    "avg_success": 71.5,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ロ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "っ": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "W": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。 で": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ll -6": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "0主": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ー        “                      ー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーーー _ 。         、": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ュー": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "'衝": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ベー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "の   内    、~": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "つ。      -": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "つ。": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。  ー      ここ   ー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。 。』        |": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ni": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "*     |     回": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "に ーー         「": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "也": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "1               =  cap          、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "う               =  cap          、": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "“  !          = cap      、": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R | に mo  、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ネ       = cap       、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "“    = cp      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "1 」        = ceo       、": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "“          = ceo      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "R |                      =  cap          、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ョ  mo 、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "こと Sao": {
+    "used": 1,
+    "success": 70.3,
+    "avg_success": 70.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "? g     、": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "い g昭      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "昌 g        、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "g   、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "“ ' g昭      、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "還 、": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "5 ぐさ": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "到            「         ロ": {
+    "used": 1,
+    "success": 69.3,
+    "avg_success": 69.3,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ii   ー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "9 い": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー、 モー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ーー で に": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "征和Wa": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "昌": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "還還還還還還還還II": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "is": {
+    "used": 1,
+    "success": 70.6,
+    "avg_success": 70.6,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "N    四": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "\"": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "*": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "パ    取": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "人ルー": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "たたかう   |": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "-  】 と 思 ただかう": {
+    "used": 1,
+    "success": 67.19999999999999,
+    "avg_success": 67.2,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "和ョ・ー": {
+    "used": 1,
+    "success": 65.8,
+    "avg_success": 65.8,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "_G": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "本": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "人還": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "ジー": {
+    "used": 1,
+    "success": 70.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  },
+  "。": {
+    "used": 4,
+    "success": 280.0,
+    "avg_success": 70.0,
+    "last_update": "2026-02-23T22:34:44.215981",
+    "source": "observe"
+  }
+}

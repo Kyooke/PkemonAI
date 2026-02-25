@@ -1,0 +1,237 @@
+{
+  "ドドゲザン": {
+    "types": [
+      "あく",
+      "はがね"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 120,
+      "special-attack": 60,
+      "special-defense": 85,
+      "speed": 50
+    },
+    "abilities": [
+      "defiant",
+      "supreme-overlord",
+      "pressure"
+    ],
+    "moves": [
+      "sandstorm",
+      "taunt",
+      "rock-tomb",
+      "poison-jab"
+    ],
+    "item": "たべのこし",
+    "nature": "ようき",
+    "evs": {
+      "HP": 0,
+      "攻撃": 252,
+      "防御": 0,
+      "特攻": 252,
+      "特防": 252,
+      "素早さ": 0
+    },
+    "usage": 2.900790056394902
+  },
+  "サーフゴー": {
+    "types": [
+      "はがね",
+      "ゴースト"
+    ],
+    "stats": {
+      "hp": 87,
+      "attack": 60,
+      "defense": 95,
+      "special-attack": 133,
+      "special-defense": 91,
+      "speed": 84
+    },
+    "abilities": [
+      "good-as-gold"
+    ],
+    "moves": [
+      "steel-beam",
+      "low-kick",
+      "thief",
+      "take-down"
+    ],
+    "item": "いのちのたま",
+    "nature": "ようき",
+    "evs": {
+      "HP": 252,
+      "攻撃": 252,
+      "防御": 0,
+      "特攻": 0,
+      "特防": 0,
+      "素早さ": 252
+    },
+    "usage": 19.731604415081787
+  },
+  "カイリュー": {
+    "types": [
+      "ドラゴン",
+      "ひこう"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "abilities": [
+      "inner-focus",
+      "multiscale"
+    ],
+    "moves": [
+      "ice-beam",
+      "roost",
+      "weather-ball",
+      "aerial-ace"
+    ],
+    "item": "とつげきチョッキ",
+    "nature": "いじっぱり",
+    "evs": {
+      "HP": 252,
+      "攻撃": 252,
+      "防御": 0,
+      "特攻": 252,
+      "特防": 252,
+      "素早さ": 0
+    },
+    "usage": 4.3973128755343165
+  },
+  "テツノツツミ": {
+    "types": [
+      "こおり",
+      "みず"
+    ],
+    "stats": {
+      "hp": 56,
+      "attack": 80,
+      "defense": 114,
+      "special-attack": 124,
+      "special-defense": 60,
+      "speed": 136
+    },
+    "abilities": [
+      "quark-drive"
+    ],
+    "moves": [
+      "facade",
+      "ice-punch",
+      "chilling-water",
+      "acrobatics"
+    ],
+    "item": "とつげきチョッキ",
+    "nature": "ようき",
+    "evs": {
+      "HP": 0,
+      "攻撃": 252,
+      "防御": 0,
+      "特攻": 252,
+      "特防": 0,
+      "素早さ": 252
+    },
+    "usage": 5.826393348524411
+  },
+  "モロバレル": {
+    "types": [
+      "くさ",
+      "どく"
+    ],
+    "stats": {
+      "hp": 114,
+      "attack": 85,
+      "defense": 70,
+      "special-attack": 85,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "abilities": [
+      "effect-spore",
+      "regenerator"
+    ],
+    "moves": [
+      "confide",
+      "foul-play",
+      "hidden-power",
+      "seed-bomb"
+    ],
+    "item": "こだわりハチマキ",
+    "nature": "いじっぱり",
+    "evs": {
+      "HP": 0,
+      "攻撃": 0,
+      "防御": 252,
+      "特攻": 252,
+      "特防": 0,
+      "素早さ": 0
+    },
+    "usage": 5.3460509321398835
+  },
+  "ハバタクカミ": {
+    "types": [
+      "ゴースト",
+      "フェアリー"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 55,
+      "special-attack": 135,
+      "special-defense": 135,
+      "speed": 135
+    },
+    "abilities": [
+      "protosynthesis"
+    ],
+    "moves": [
+      "energy-ball",
+      "psyshock",
+      "shadow-ball",
+      "poltergeist"
+    ],
+    "item": "いのちのたま",
+    "nature": "ようき",
+    "evs": {
+      "HP": 252,
+      "攻撃": 252,
+      "防御": 252,
+      "特攻": 0,
+      "特防": 252,
+      "素早さ": 252
+    },
+    "usage": 7.979900735404663
+  },
+  "オーガポン": {
+    "types": [
+      "不明"
+    ],
+    "stats": {},
+    "moves": {},
+    "items_seen": {},
+    "usage": 11.0
+  },
+  "ミミッキュ": {
+    "types": [
+      "不明"
+    ],
+    "stats": {},
+    "moves": {},
+    "items_seen": {},
+    "usage": 11.0
+  },
+  "ヒードラン": {
+    "types": [
+      "不明"
+    ],
+    "stats": {},
+    "moves": {},
+    "items_seen": {},
+    "usage": 11.0
+  }
+}
