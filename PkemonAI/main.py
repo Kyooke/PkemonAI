@@ -1,122 +1,123 @@
-﻿# main.py
 # ============================================
-# 🎮 Pokemon AI メイン統合スクリプト（観戦＋学習対応版）
-# HOME更新 → 構築 → 選出 → バトル → 学習
+
+# 🏆 Pokemon AI Main Controller
+
+# 統合メインメニュー（構築 / 学習 / 観戦 / 実戦）
+
 # ============================================
 
 import os
-import sys
 import time
-from input_home_data import update_home_data
 from build_team import build_team
-from select_team import select_best_team
-from realtime_ai import BattleAI
+from assist_and_learn import assist_and_learn_cycle
 from learn_playstyle import run_learning
-from observe_live import run_live_observer
+from realtime_ai import realtime_battle_loop
+from input_home_data import get_pokemon_data
+from observe_live import observe_live_stream
 
-MENU = """
-===========================
- 🎮 Pokemon AI Main Menu
-===========================
-1️⃣ HOMEデータを更新（input_home_data）
-2️⃣ 構築を作成（build_team）
-3️⃣ 最適3体を選出（select_team）
-4️⃣ バトルAIを実行（BattleAI）
-5️⃣ 観戦モード（observe_live）
-6️⃣ 学習更新（learn_playstyle）
-7️⃣ すべて自動で実行（1〜6）
-0️⃣ 終了
-===========================
-番号を入力してください: """
+DATA_DIR = "data"
+HOME_JSON = os.path.join(DATA_DIR, "home_data.json")
 
-def pause():
-    input("\nEnterキーでメニューに戻ります...")
+# --------------------------------------------
 
-def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
+# メニュー表示
 
+# --------------------------------------------
 
-# ===== 各処理関数 =====
+def show_menu():
+print("\n==============================")
+print("🎮 Pokemon Champions AI System")
+print("==============================")
+print("1️⃣  ポケモンHOMEデータ更新")
+print("2️⃣  構築生成（相性考慮版）")
+print("3️⃣  戦闘AIモード（リアルタイム）")
+print("4️⃣  観戦モード（他人の試合学習）")
+print("5️⃣  プレイング学習モード（観戦＋自己対戦）")
+print("6️⃣  Assist & Learnモード（分析＋相手記録）")
+print("7️⃣  終了")
+print("==============================")
+
+# --------------------------------------------
+
+# 各モード呼び出し
+
+# --------------------------------------------
+
 def run_home_update():
-    print("\n=== HOMEデータ更新を開始 ===")
-    update_home_data()
-    print("\n✅ HOMEデータ更新が完了しました。")
+"""HOMEデータ更新"""
+print("\n=== 🏠 ポケモンHOMEデータ更新 ===")
+name = input("追加するポケモン名を入力してください（例：カイリュー）> ").strip()
+if not name:
+print("キャンセルしました。")
+return
+data = get_pokemon_data(name)
+print(f"✅ {name} のデータを登録しました。")
+print(data)
 
 def run_build_team():
-    print("\n=== 構築生成を開始 ===")
-    build_team()
-    print("\n✅ 構築が完了しました。")
+"""構築生成"""
+print("\n=== 🧱 構築生成AI 起動 ===")
+build_team()
 
-def run_select_team():
-    print("\n=== 最適選出を開始 ===")
-    select_best_team()
-    print("\n✅ 選出が完了しました。")
-
-def run_battle():
-    print("\n=== バトルAIを開始 ===")
-    ai = BattleAI()
-    # 仮想相手チーム（例）
-    opponent = ["カイリュー", "テツノツツミ", "モロバレル"]
-    ai.simulate_battle(opponent)
-    print("\n✅ バトルAIが終了しました。")
+def run_realtime_ai():
+"""実戦AI"""
+print("\n=== ⚔️ バトルAIモード起動 ===")
+realtime_battle_loop()
 
 def run_observe():
-    print("\n=== 観戦モード（リアルタイム学習） ===")
-    print("配信画面を前面にして、Ctrl+Cで終了します。")
-    run_live_observer(duration_minutes=None)
-    print("\n✅ 観戦データ収集が完了しました。")
+"""観戦学習"""
+print("\n=== 👀 観戦学習モード起動 ===")
+observe_live_stream()
 
-def run_learning_mode():
-    print("\n=== 観戦・自己学習を統合 ===")
-    run_learning()
-    print("\n✅ 学習結果を更新しました。")
+def run_playstyle_learning():
+"""プレイング学習"""
+print("\n=== 🧠 プレイング学習モード起動 ===")
+run_learning()
 
+def run_assist_and_learn():
+"""Assist & Learn"""
+print("\n=== 🎮 Assist & Learnモード起動 ===")
+assist_and_learn_cycle()
 
-# ===== 自動実行モード =====
-def run_all():
-    print("\n=== 自動実行モード（HOME→構築→選出→バトル→学習） ===")
-    run_home_update()
-    run_build_team()
-    run_select_team()
-    run_battle()
-    run_observe()
-    run_learning_mode()
-    print("\n✅ 一連の自動処理が完了しました。")
+# --------------------------------------------
 
+# メインループ
 
-# ===== メインループ =====
+# --------------------------------------------
+
 def main():
-    while True:
-        clear()
-        try:
-            choice = input(MENU).strip()
-            if choice == "1":
-                clear(); run_home_update(); pause()
-            elif choice == "2":
-                clear(); run_build_team(); pause()
-            elif choice == "3":
-                clear(); run_select_team(); pause()
-            elif choice == "4":
-                clear(); run_battle(); pause()
-            elif choice == "5":
-                clear(); run_observe(); pause()
-            elif choice == "6":
-                clear(); run_learning_mode(); pause()
-            elif choice == "7":
-                clear(); run_all(); pause()
-            elif choice == "0":
-                print("終了します。")
-                break
-            else:
-                print("❌ 無効な入力です。")
-                time.sleep(1.5)
-        except KeyboardInterrupt:
-            print("\n中断されました。終了します。")
-            sys.exit(0)
-        except Exception as e:
-            print(f"⚠️ エラー発生: {e}")
-            pause()
+while True:
+show_menu()
+choice = input("選択番号を入力してください > ").strip()
 
+```
+    if choice == "1":
+        run_home_update()
+    elif choice == "2":
+        run_build_team()
+    elif choice == "3":
+        run_realtime_ai()
+    elif choice == "4":
+        run_observe()
+    elif choice == "5":
+        run_playstyle_learning()
+    elif choice == "6":
+        run_assist_and_learn()
+    elif choice == "7":
+        print("👋 終了します。")
+        break
+    else:
+        print("⚠️ 無効な入力です。1〜7を選択してください。")
 
-if __name__ == "__main__":
-    main()
+    print("\n--- 戻るにはEnterキーを押してください ---")
+    input()
+```
+
+# --------------------------------------------
+
+# 実行
+
+# --------------------------------------------
+
+if **name** == "**main**":
+main()
