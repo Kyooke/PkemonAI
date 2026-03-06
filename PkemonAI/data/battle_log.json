@@ -377,5 +377,100 @@
         "opp_hp_after": 0
       }
     ]
+  },
+  {
+    "opponent": [
+      "エンテイ"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "テツノツツミ",
+        "hp_after": 86.0,
+        "opp_hp_after": 75.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "テツノツツミ",
+        "hp_after": 68.0,
+        "opp_hp_after": 45.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "テツノツツミ",
+        "hp_after": 56.0,
+        "opp_hp_after": 21.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "テツノツツミ",
+        "hp_after": 43.0,
+        "opp_hp_after": 5.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "テツノツツミ",
+        "hp_after": 19.0,
+        "opp_hp_after": 0
+      }
+    ],
+    "timestamp": "2026-02-28T22:37:42.735347"
+  },
+  {
+    "opponent": [
+      "ドダイトス"
+    ],
+    "result": "win",
+    "turns": [
+      {
+        "turn": 1,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 84.0,
+        "opp_hp_after": 81.0
+      },
+      {
+        "turn": 2,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 68.0,
+        "opp_hp_after": 63.0
+      },
+      {
+        "turn": 3,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 55.0,
+        "opp_hp_after": 44.0
+      },
+      {
+        "turn": 4,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 34.0,
+        "opp_hp_after": 22.0
+      },
+      {
+        "turn": 5,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 14.0,
+        "opp_hp_after": 6.0
+      },
+      {
+        "turn": 6,
+        "action": "stay",
+        "active": "ドドゲザン",
+        "hp_after": 0,
+        "opp_hp_after": 0
+      }
+    ],
+    "timestamp": "2026-03-03T21:03:05.040702"
   }
 ]

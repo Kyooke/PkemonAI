@@ -1,5 +1,7 @@
-﻿# screen_reader.py（OCR強化版）
-# === ポケモン対戦画面をOCR + 画像解析で読み取るモジュール ===
+﻿# ============================================
+# 📷 screen_reader.py（OCR強化＋統合対応版）
+# ポケモン対戦画面をOCR + 画像解析で読み取るモジュール
+# ============================================
 
 import cv2
 import numpy as np
@@ -8,18 +10,22 @@ import pyautogui
 import os
 import time
 
-# Tesseractパス
+# --- Tesseract パス設定 ---
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-# === 設定 ===
-NAME_REGION = (100, 100, 250, 60)
-HP_REGION = (100, 160, 300, 40)
-OPP_NAME_REGION = (1000, 100, 250, 60)
-OPP_HP_REGION = (1000, 160, 300, 40)
+# --- キャプチャ領域設定 ---
+# 画面解像度によって座標は調整してください
+NAME_REGION = (100, 100, 250, 60)        # 自分のポケモン名
+HP_REGION = (100, 160, 300, 40)          # 自分のHPバー
+OPP_NAME_REGION = (1000, 100, 250, 60)   # 相手のポケモン名
+OPP_HP_REGION = (1000, 160, 300, 40)     # 相手のHPバー
 
-# === OCR設定（精度向上） ===
+# --- OCR設定（日本語＋英語対応） ---
 OCR_CONFIG = "--oem 3 --psm 6 -l jpn+eng"
 
+# --------------------------------------------
+# スクリーンキャプチャ
+# --------------------------------------------
 def capture_region(region):
     """指定範囲をスクリーンキャプチャ"""
     x, y, w, h = region
@@ -27,6 +33,9 @@ def capture_region(region):
     frame = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
     return frame
 
+# --------------------------------------------
+# テキスト抽出（ノイズ除去＋OCR）
+# --------------------------------------------
 def extract_text(image):
     """OCRでテキストを抽出（ノイズ除去付き）"""
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -36,6 +45,9 @@ def extract_text(image):
     text = text.strip().replace(" ", "").replace("\n", "")
     return text
 
+# --------------------------------------------
+# HPバー検出（緑領域の割合）
+# --------------------------------------------
 def detect_hp_percent(image):
     """HPバーの緑部分の割合を推定"""
     hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
@@ -46,8 +58,11 @@ def detect_hp_percent(image):
     hp_percent = round(ratio * 100, 1)
     return hp_percent
 
+# --------------------------------------------
+# 対戦画面解析（1回分）
+# --------------------------------------------
 def read_battle_screen():
-    """対戦画面をリアルタイム解析して出力"""
+    """1フレーム分の画面解析を行い、結果を返す"""
     my_name_img = capture_region(NAME_REGION)
     my_hp_img = capture_region(HP_REGION)
     opp_name_img = capture_region(OPP_NAME_REGION)
@@ -58,7 +73,7 @@ def read_battle_screen():
     my_hp = detect_hp_percent(my_hp_img)
     opp_hp = detect_hp_percent(opp_hp_img)
 
-    os.system('cls')
+    os.system('cls' if os.name == 'nt' else 'clear')
     print("=== 対戦画面解析 ===")
     print(f"あなたのポケモン: {my_name or '（認識なし）'}　HP推定: {my_hp}%")
     print(f"相手のポケモン: {opp_name or '（認識なし）'}　HP推定: {opp_hp}%")
@@ -70,8 +85,25 @@ def read_battle_screen():
         "opp_hp": opp_hp
     }
 
+# --------------------------------------------
+# Assist & Learn 用API
+# --------------------------------------------
+def capture_screen_data():
+    """
+    Assist & Learn モジュール用の統合呼び出し関数。
+    名前だけの簡易OCR出力を返す。
+    """
+    data = read_battle_screen()
+    return {
+        "names": [data["my_name"], data["opp_name"]],
+        "hp": {"my": data["my_hp"], "opp": data["opp_hp"]}
+    }
+
+# --------------------------------------------
+# 実行テスト（単体動作）
+# --------------------------------------------
 if __name__ == "__main__":
-    print("OCR強化版でリアルタイム解析を開始します。Ctrl + C で停止。")
+    print("🧠 OCR強化版でリアルタイム解析を開始します。Ctrl + C で停止。")
     time.sleep(2)
     while True:
         read_battle_screen()
